@@ -47,7 +47,8 @@ nav i#burger{
     font-size: 1.3em;
     border: 1px solid rgb(0, 0, 0);
     padding: 3px;
-    margin-left: 20vw;
+    position:absolute;
+    right:10px;
     display: none;
 }
 nav .nav-links i#nav-cross{
